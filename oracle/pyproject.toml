@@ -1,0 +1,4 @@
+[tool.pytest.ini_options]
+# Run from this directory: `cd oracle && pytest`. See README.md.
+pythonpath = ["."]
+testpaths = ["tests"]
